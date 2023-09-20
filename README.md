@@ -10,6 +10,7 @@
 ### CSS
 - display flex
 - Eventos
+- Media
 
 ### Javascript
 - DOM
